@@ -33,9 +33,6 @@ const Hero = () => (
         <a href="tel:0451953125" className="inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground font-semibold px-8 py-3 rounded hover:bg-gold-light transition-colors">
           Call Now
         </a>
-        <a href="#services" className="inline-flex items-center justify-center gap-2 border border-primary text-primary font-semibold px-8 py-3 rounded hover:bg-primary hover:text-primary-foreground transition-colors">
-          Our Services
-        </a>
       </div>
     </div>
   </section>
